@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="동화읽기">
+<meta name="theme-color" content="#ffd6e0">
+<title>영어 동화책 읽어주기 📚</title>
+<style>
+:root{--pink:#ffd6e0;--peach:#ffe5c4;--mint:#d4f5e4;--sky:#d6ecff;--lav:#e8dcff;--ink:#4a3b52;--hl:#fff3a6}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+body{margin:0;font-family:-apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;color:var(--ink);
+background:linear-gradient(160deg,var(--pink),var(--peach) 40%,var(--sky));min-height:100vh;
+padding:env(safe-area-inset-top) 0 env(safe-area-inset-bottom)}
+header{text-align:center;padding:22px 16px 8px}
+header h1{margin:0;font-size:1.7rem}
+header p{margin:6px 0 0;font-size:.95rem;opacity:.8}
+main{max-width:720px;margin:0 auto;padding:12px 14px 140px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:14px}
+.card{border:none;border-radius:24px;padding:20px 12px;font-size:1rem;color:var(--ink);text-align:center;
+box-shadow:0 6px 0 rgba(0,0,0,.08);cursor:pointer;min-height:150px;font-family:inherit}
+.card:active{transform:translateY(3px);box-shadow:0 3px 0 rgba(0,0,0,.08)}
+.card .emo{font-size:3rem;display:block}.card b{display:block;margin-top:8px;font-size:1.05rem}
+.card small{display:block;opacity:.75;margin-top:4px}
+.book{background:#fffdf8;border-radius:28px;padding:22px 20px;box-shadow:0 8px 24px rgba(0,0,0,.08)}
+.book h2{margin:0 0 4px;font-size:1.6rem;font-family:Georgia,serif}
+.book .ko{opacity:.7;margin-bottom:14px}
+.book p{font-family:Georgia,"Times New Roman",serif;font-size:1.2rem;line-height:1.7;padding:8px 10px;border-radius:14px;
+margin:6px -10px;transition:background .3s;cursor:pointer}
+.book p.on{background:var(--hl);box-shadow:0 0 0 3px #ffe066}
+.pd{font-size:.85rem;opacity:.6;text-align:center;margin-top:18px}
+.back{border:none;background:#fff;border-radius:999px;padding:12px 18px;font-size:1rem;margin-bottom:12px;font-family:inherit;color:var(--ink);box-shadow:0 3px 0 rgba(0,0,0,.08)}
+.bar{position:fixed;left:0;right:0;bottom:0;background:rgba(255,255,255,.95);backdrop-filter:blur(8px);
+padding:10px 12px calc(10px + env(safe-area-inset-bottom));box-shadow:0 -4px 16px rgba(0,0,0,.08)}
+.bar .row{display:flex;gap:10px;justify-content:center;max-width:720px;margin:0 auto}
+.bar button{flex:1;max-width:140px;min-height:56px;border:none;border-radius:20px;font-size:1.05rem;font-family:inherit;color:var(--ink);font-weight:600}
+#play{background:var(--mint)}#pause{background:var(--peach)}#stop{background:var(--pink)}
+.speed{display:flex;align-items:center;gap:10px;max-width:720px;margin:8px auto 0;font-size:.9rem}
+.speed input{flex:1;accent-color:#ff8fab;height:28px}
+select{max-width:720px;width:100%;display:block;margin:8px auto 0;padding:8px;border-radius:12px;border:1px solid #eee;font-size:.9rem;background:#fff}
+.hide{display:none!important}
+.note{background:rgba(255,255,255,.7);border-radius:16px;padding:12px;font-size:.9rem;margin-top:16px;line-height:1.5}
+</style>
+</head>
+<body>
+<header><h1>📚 영어 동화책 읽어주기</h1><p>동화를 고르고 ▶︎ 읽기 버튼을 눌러 주세요</p></header>
+<main>
+  <section id="list"><div class="grid" id="grid"></div>
+  <div class="note">💡 아이폰은 <b>무음 모드</b>를 끄고 볼륨을 올려 주세요. 문단을 누르면 그 문단부터 읽어요.</div></section>
+  <section id="reader" class="hide">
+    <button class="back" id="back">← 동화 목록</button>
+    <article class="book" id="book"></article>
+  </section>
+</main>
+<div class="bar hide" id="bar">
+  <div class="row"><button id="play">▶︎ 읽기</button><button id="pause">⏸ 잠깐</button><button id="stop">⏹ 멈춤</button></div>
+  <div class="speed">🐢<input type="range" id="rate" min="0.7" max="1.2" step="0.05" value="0.9">🐇 <span id="rv">0.9x</span></div>
+  <select id="voice" aria-label="목소리 선택"></select>
+</div>
+<script src="stories.js"></script>
+<script>
+const S=window.STORIES,colors=['--pink','--mint','--sky','--lav','--peach'];
+const $=id=>document.getElementById(id);let cur=null,idx=0,playing=false,paused=false,voices=[],token=0;
+S.forEach((s,i)=>{const b=document.createElement('button');b.className='card';b.style.background=`var(${colors[i%5]})`;
+b.innerHTML=`<span class="emo">${s.emoji}</span><b>${s.title}</b><small>${s.ko}</small>`;b.onclick=()=>open(i);$('grid').appendChild(b)});
+function open(i){stop();cur=S[i];idx=0;const bk=$('book');
+bk.innerHTML=`<h2>${cur.emoji} ${cur.title}</h2><div class="ko">${cur.ko}</div>`+cur.text.map((p,j)=>`<p data-i="${j}">${p}</p>`).join('')+
+`<div class="pd">Public domain / 공개영역 · ${cur.src}</div>`;
+bk.querySelectorAll('p').forEach(p=>p.onclick=()=>{stop();idx=+p.dataset.i;play()});
+$('list').classList.add('hide');$('reader').classList.remove('hide');$('bar').classList.remove('hide');scrollTo(0,0)}
+$('back').onclick=()=>{stop();$('reader').classList.add('hide');$('bar').classList.add('hide');$('list').classList.remove('hide')};
+function loadVoices(){voices=speechSynthesis.getVoices().filter(v=>/^en/i.test(v.lang));
+voices.sort((a,b)=>score(b)-score(a));const sel=$('voice'),keep=sel.value;
+sel.innerHTML=voices.length?voices.map((v,i)=>`<option value="${i}">${v.name} (${v.lang})</option>`).join(''):'<option>기본 영어 음성</option>';
+if(keep&&voices[keep])sel.value=keep}
+function score(v){let s=0;if(/en-US/i.test(v.lang))s+=3;if(/en-GB/i.test(v.lang))s+=2;if(/Samantha|Karen|Daniel|Google|Natural|Enhanced|Premium/i.test(v.name))s+=2;if(v.localService)s+=1;return s}
+if('speechSynthesis' in window){loadVoices();speechSynthesis.onvoiceschanged=loadVoices}
+else{$('play').disabled=true;$('play').textContent='음성 미지원'}
+function mark(){document.querySelectorAll('.book p').forEach(p=>p.classList.toggle('on',+p.dataset.i===idx&&playing));
+const p=document.querySelector('.book p.on');if(p)p.scrollIntoView({behavior:'smooth',block:'center'})}
+function speak(){const t=++token;if(!cur||idx>=cur.text.length){playing=false;idx=0;mark();return}
+const u=new SpeechSynthesisUtterance(cur.text[idx].replace(/<[^>]+>/g,''));u.lang='en-US';u.rate=+$('rate').value;u.pitch=1.05;
+const v=voices[+$('voice').value];if(v){u.voice=v;u.lang=v.lang}
+u.onend=()=>{if(t!==token||!playing)return;idx++;speak()};u.onerror=e=>{if(t===token&&e.error!=='interrupted'&&e.error!=='canceled'){playing=false;mark()}};
+mark();speechSynthesis.speak(u)}
+function play(){if(!cur)return;if(paused){speechSynthesis.resume();paused=false;return}
+speechSynthesis.cancel();playing=true;speak()}
+function stop(){token++;playing=false;paused=false;if(window.speechSynthesis)speechSynthesis.cancel();mark()}
+$('play').onclick=play;$('stop').onclick=()=>{stop();idx=0};
+$('pause').onclick=()=>{if(playing&&!paused){speechSynthesis.pause();paused=true}};
+$('rate').oninput=e=>{$('rv').textContent=(+e.target.value).toFixed(2).replace(/0$/,'')+'x'};
+$('rate').onchange=$('voice').onchange=()=>{if(playing&&!paused){speechSynthesis.cancel();speak()}};
+// iOS keeps paused state oddly; Chrome stops after ~15s on long text — paragraphs keep utterances short.
+</script>
+</body>
+</html>
