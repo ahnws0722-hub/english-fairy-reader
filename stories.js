@@ -64,5 +64,16 @@ window.STORIES=[
 "Meanwhile, the tortoise kept walking. Step by step, slow and steady, he never stopped. He walked right past the sleeping hare.",
 "When the hare woke up, the sun was setting. He jumped up and ran as fast as he could. But when he reached the top of the hill, the tortoise was already there, and all the animals were cheering!",
 "The hare learned an important lesson that day: slow and steady wins the race.",
+"The End."]},
+{title:"Hansel and Gretel",ko:"헨젤과 그레텔",emoji:"🍬",src:"Traditional tale (after the Brothers Grimm, 1812)",text:[
+"Once upon a time, a poor woodcutter lived near a great forest with his wife and two children, Hansel and Gretel. There was little food in the house, and the stepmother said, \"We cannot feed them all. Tomorrow we must take the children deep into the woods and leave them there.\"",
+"Hansel heard her from his bed. That night he slipped outside and filled his pockets with shiny white pebbles. In the morning the stepmother led them into the forest. Hansel quietly dropped the pebbles along the path.",
+"When night came, the moon shone on the white pebbles. Hansel and Gretel followed them all the way home. Their father was overjoyed to see them, but the stepmother was angry.",
+"Soon there was even less food. Again the stepmother took the children into the woods. This time Hansel had only a crust of bread. He broke it into crumbs and dropped them along the path. But birds ate every crumb, and the children could not find their way home.",
+"They walked and walked until they found a little house made of bread, cake, and sugar. Hungry and tired, they began to nibble. An old woman came out. \"Come in, dear children,\" she said kindly. \"You will be safe with me.\"",
+"But the old woman was a wicked witch. She locked Hansel in a cage and made Gretel cook for him. \"When he is fat enough,\" she whispered, \"I will eat him.\" Every day she asked Hansel to poke out his finger so she could feel how fat he was. Clever Hansel held out a thin chicken bone instead.",
+"At last the witch grew impatient. \"Gretel, heat the oven!\" she cried. \"Climb in and see if it is hot enough.\" Gretel knew the witch meant to push her in. \"I do not know how,\" she said. \"Show me.\" The witch leaned far into the oven. Quick as a flash, Gretel gave her a push, shut the door, and ran to free Hansel.",
+"They filled their pockets with the witch's pearls and jewels and set off through the forest. A wide river blocked their way, but a white duck carried them across, one after the other.",
+"Soon they saw their father's house. He hugged them tightly and cried for joy. The cruel stepmother was gone. With the jewels, the family never went hungry again, and Hansel and Gretel lived happily ever after.",
 "The End."]}
 ];
