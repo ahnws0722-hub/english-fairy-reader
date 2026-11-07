@@ -1,5 +1,6 @@
 window.STORIES=[
-{title:"Goldilocks and the Three Bears",ko:"골디락스와 곰 세 마리",emoji:"🐻",src:"Traditional English tale (after Robert Southey, 1837)",text:[
+{title:"Goldilocks and the Three Bears",ko:"골디락스와 곰 세 마리",emoji:"🐻",src:"Traditional English tale (after Robert Southey, 1837)",
+text:[
 "Once upon a time, there were three bears who lived together in a little house in the woods. There was a great big Papa Bear, a middle-sized Mama Bear, and a little wee Baby Bear.",
 "Each bear had a bowl for porridge. Papa Bear had a great big bowl, Mama Bear had a middle-sized bowl, and Baby Bear had a little wee bowl. Each bear had a chair, and each bear had a bed, too.",
 "One morning, Mama Bear made porridge for breakfast. It was much too hot to eat, so the three bears went for a walk in the woods while it cooled.",
@@ -11,8 +12,22 @@ window.STORIES=[
 "\"Someone has been sitting in my chair!\" growled Papa Bear. \"Someone has been sitting in my chair!\" said Mama Bear. \"Someone has been sitting in my chair,\" cried Baby Bear, \"and they broke it all to pieces!\"",
 "The three bears went upstairs. \"Someone has been sleeping in my bed!\" growled Papa Bear. \"Someone has been sleeping in my bed!\" said Mama Bear. \"Someone has been sleeping in my bed,\" cried Baby Bear, \"and here she is!\"",
 "Just then, Goldilocks woke up. She saw the three bears looking at her. She jumped out of bed, ran down the stairs, out the door, and all the way home through the woods. And she never, ever went into the bears' house again.",
-"The End."]},
-{title:"The Three Little Pigs",ko:"아기 돼지 삼형제",emoji:"🐷",src:"Traditional English tale (after Joseph Jacobs, 1890)",text:[
+"The End."],
+tr:[
+"옛날 옛적에, 숲속 작은 집에 곰 세 마리가 함께 살았어요. 아주 커다란 아빠 곰, 중간 크기의 엄마 곰, 그리고 아주 조그만 아기 곰이 있었지요.",
+"곰들은 저마다 죽 그릇이 있었어요. 아빠 곰은 아주 큰 그릇, 엄마 곰은 중간 그릇, 아기 곰은 아주 작은 그릇이었어요. 곰들은 저마다 의자도 있고, 침대도 있었답니다.",
+"어느 날 아침, 엄마 곰이 아침으로 죽을 끓였어요. 너무 뜨거워서 먹을 수가 없어서, 곰 세 마리는 죽이 식는 동안 숲으로 산책을 나갔어요.",
+"곰들이 나간 사이, 골디락스라는 작은 여자아이가 숲길을 걸어왔어요. 아이는 작은 집을 보고 창문으로 살짝 들여다보았어요. 아무도 없어서, 문을 열고 쏙 들어갔지요.",
+"식탁 위에 죽 그릇이 세 개 있었어요. 아주 큰 그릇의 죽을 맛보았어요. \"아! 이 죽은 너무 뜨거워!\" 중간 그릇의 죽을 맛보았어요. \"아! 이 죽은 너무 차가워!\" 그다음 아주 작은 그릇의 죽을 맛보았어요. \"아, 이 죽은 딱 좋아!\" 그리고 남김없이 다 먹어 버렸어요.",
+"골디락스는 앉고 싶어졌어요. 아주 큰 의자에 앉았어요. \"이 의자는 너무 딱딱해!\" 중간 의자에 앉았어요. \"이 의자는 너무 푹신해!\" 그다음 아주 작은 의자에 앉았어요. \"아, 이 의자는 딱 좋아!\" 그런데 몸을 꼼지락꼼지락하다가, 우지끈! 작은 의자가 산산조각 났어요.",
+"이제 골디락스는 너무 졸렸어요. 위층으로 올라가 보니 침대가 세 개 있었어요. 아주 큰 침대에 누웠어요. \"이 침대는 너무 딱딱해!\" 중간 침대에 누웠어요. \"이 침대는 너무 푹신해!\" 그다음 아주 작은 침대에 누웠어요. \"아, 이 침대는 딱 좋아!\" 그리고 곧 깊이 잠들었어요.",
+"곧 곰 세 마리가 아침을 먹으러 돌아왔어요. \"누가 내 죽을 먹었네!\" 아빠 곰이 아주 굵은 목소리로 으르렁거렸어요. \"누가 내 죽을 먹었네!\" 엄마 곰이 중간 목소리로 말했어요. \"누가 내 죽을 먹었어요.\" 아기 곰이 아주 작은 목소리로 울먹였어요. \"그리고 다 먹어 버렸어요!\"",
+"\"누가 내 의자에 앉았네!\" 아빠 곰이 으르렁거렸어요. \"누가 내 의자에 앉았네!\" 엄마 곰이 말했어요. \"누가 내 의자에 앉았어요.\" 아기 곰이 울먹였어요. \"그리고 산산조각 내 버렸어요!\"",
+"곰 세 마리는 위층으로 올라갔어요. \"누가 내 침대에서 잤네!\" 아빠 곰이 으르렁거렸어요. \"누가 내 침대에서 잤네!\" 엄마 곰이 말했어요. \"누가 내 침대에서 잤어요.\" 아기 곰이 외쳤어요. \"여기 있어요!\"",
+"바로 그때 골디락스가 잠에서 깼어요. 곰 세 마리가 자기를 쳐다보고 있었지요. 골디락스는 침대에서 벌떡 일어나 계단을 뛰어 내려가, 문밖으로 나가, 숲을 지나 집까지 내내 달려갔어요. 그리고 다시는, 절대로 곰들의 집에 들어가지 않았답니다.",
+"끝."]},
+{title:"The Three Little Pigs",ko:"아기 돼지 삼형제",emoji:"🐷",src:"Traditional English tale (after Joseph Jacobs, 1890)",
+text:[
 "Once upon a time, there was a mother pig who had three little pigs. One day she said, \"You are big now. It is time for you to go out into the world and build your own houses.\" So the three little pigs set off.",
 "The first little pig met a man with a bundle of straw. \"Please, sir, may I have some straw to build a house?\" The man gave him the straw, and the first little pig built a house of straw very quickly. Then he played all day.",
 "The second little pig met a man with a bundle of sticks. \"Please, sir, may I have some sticks to build a house?\" The man gave him the sticks, and the second little pig built a house of sticks. It did not take long, and then he played, too.",
@@ -22,8 +37,20 @@ window.STORIES=[
 "The wolf came to the house of bricks. \"Little pigs, little pigs, let me come in!\" \"Not by the hair on our chinny chin chins!\" \"Then I'll huff, and I'll puff, and I'll blow your house in!\" So he huffed, and he puffed. He huffed and he puffed again. But he could not blow the house of bricks down.",
 "The wolf was very angry. He climbed up onto the roof to come down the chimney. But the clever third little pig had put a big pot of water on the fire. Down came the wolf, splash, right into the hot water! The wolf jumped out, ran away into the forest, and never came back.",
 "From that day on, the three little pigs lived happily together in the strong little house of bricks.",
-"The End."]},
-{title:"Little Red Riding Hood",ko:"빨간 모자",emoji:"🧺",src:"Traditional tale (after the Brothers Grimm, 1812)",text:[
+"The End."],
+tr:[
+"옛날 옛적에, 아기 돼지 세 마리를 둔 엄마 돼지가 있었어요. 어느 날 엄마가 말했어요. \"너희도 이제 다 컸구나. 세상에 나가서 너희 집을 지을 때가 됐단다.\" 그래서 아기 돼지 세 마리는 길을 떠났어요.",
+"첫째 돼지는 짚단을 든 아저씨를 만났어요. \"아저씨, 집을 지으려는데 짚을 좀 주시겠어요?\" 아저씨가 짚을 주자, 첫째 돼지는 짚으로 아주 빨리 집을 지었어요. 그러고는 하루 종일 놀았어요.",
+"둘째 돼지는 나뭇가지 묶음을 든 아저씨를 만났어요. \"아저씨, 집을 지으려는데 나뭇가지를 좀 주시겠어요?\" 아저씨가 나뭇가지를 주자, 둘째 돼지는 나뭇가지로 집을 지었어요. 금방 다 짓고는 둘째도 놀았어요.",
+"셋째 돼지는 벽돌을 잔뜩 실은 아저씨를 만났어요. \"아저씨, 집을 지으려는데 벽돌을 좀 주시겠어요?\" 아저씨가 벽돌을 주었어요. 셋째 돼지는 하루 종일 열심히 일해서 튼튼한 벽돌집을 지었어요.",
+"얼마 뒤 크고 나쁜 늑대가 나타났어요. 늑대는 짚으로 만든 집 문을 두드렸어요. \"아기 돼지야, 아기 돼지야, 문 열어 줘!\" \"내 턱수염을 걸고 절대 안 돼!\" 첫째 돼지가 말했어요. \"그럼 후우 불고, 후우 불어서 네 집을 날려 버리겠다!\" 늑대는 후우 불고, 후우 불어서 집을 날려 버렸어요! 첫째 돼지는 동생의 나뭇가지 집으로 도망쳤어요.",
+"늑대는 나뭇가지 집으로 왔어요. \"아기 돼지들아, 아기 돼지들아, 문 열어 줘!\" \"우리 턱수염을 걸고 절대 안 돼!\" \"그럼 후우 불고, 후우 불어서 너희 집을 날려 버리겠다!\" 늑대는 후우 불고, 후우 불어서 집을 날려 버렸어요! 아기 돼지 두 마리는 있는 힘껏 벽돌집으로 달려갔어요.",
+"늑대는 벽돌집으로 왔어요. \"아기 돼지들아, 아기 돼지들아, 문 열어 줘!\" \"우리 턱수염을 걸고 절대 안 돼!\" \"그럼 후우 불고, 후우 불어서 너희 집을 날려 버리겠다!\" 늑대는 후우 불고, 후우 불었어요. 또 후우 불고, 후우 불었어요. 하지만 벽돌집은 꿈쩍도 하지 않았어요.",
+"늑대는 몹시 화가 났어요. 굴뚝으로 내려가려고 지붕 위로 올라갔지요. 하지만 똑똑한 셋째 돼지가 불 위에 물이 담긴 큰 솥을 올려 두었어요. 늑대가 내려오다가, 풍덩, 뜨거운 물속으로 쏙 빠졌어요! 늑대는 펄쩍 뛰어나와 숲으로 도망쳤고, 다시는 돌아오지 않았어요.",
+"그날부터 아기 돼지 세 마리는 튼튼하고 작은 벽돌집에서 행복하게 함께 살았답니다.",
+"끝."]},
+{title:"Little Red Riding Hood",ko:"빨간 모자",emoji:"🧺",src:"Traditional tale (after the Brothers Grimm, 1812)",
+text:[
 "Once upon a time, there was a sweet little girl who was loved by everyone. Her grandmother gave her a little red velvet hood, and she wore it every day. So everyone called her Little Red Riding Hood.",
 "One day her mother said, \"Grandmother is sick. Please take her this basket of cake and juice. Stay on the path, and do not stop to talk to strangers.\" \"I will be careful,\" said Little Red Riding Hood, and she set off into the woods.",
 "In the woods she met a wolf. She did not know he was a wicked animal, so she was not afraid. \"Good morning, Little Red Riding Hood,\" said the wolf. \"Where are you going?\" \"To my grandmother's house. She lives under the three big oak trees.\"",
@@ -32,8 +59,19 @@ window.STORIES=[
 "Soon Little Red Riding Hood arrived. Something seemed strange. \"Oh, Grandmother, what big ears you have!\" \"All the better to hear you with, my dear.\" \"Oh, Grandmother, what big eyes you have!\" \"All the better to see you with, my dear.\" \"Oh, Grandmother, what big teeth you have!\" \"All the better to eat you with!\" And the wolf jumped out of bed.",
 "Little Red Riding Hood screamed and ran. A woodcutter working nearby heard her. He rushed into the house with his axe, and the wolf ran out the door and far, far away into the forest.",
 "Grandmother came out of the wardrobe, safe and sound. The three of them sat down together and shared the cake and juice. And Little Red Riding Hood said, \"I will always stay on the path, just as Mother told me.\"",
-"The End."]},
-{title:"The Ugly Duckling",ko:"미운 아기 오리",emoji:"🦢",src:"After Hans Christian Andersen, 1843 (short version)",text:[
+"The End."],
+tr:[
+"옛날 옛적에, 모두가 좋아하는 귀여운 여자아이가 있었어요. 할머니가 빨간 벨벳 모자를 만들어 주셨는데, 아이는 날마다 그 모자를 썼어요. 그래서 모두 아이를 '빨간 모자'라고 불렀어요.",
+"어느 날 엄마가 말했어요. \"할머니가 편찮으시단다. 이 케이크랑 주스 바구니를 갖다 드리렴. 길에서 벗어나지 말고, 모르는 사람이랑 얘기하느라 멈추면 안 돼.\" \"조심할게요.\" 빨간 모자는 대답하고 숲으로 길을 떠났어요.",
+"숲에서 빨간 모자는 늑대를 만났어요. 늑대가 나쁜 동물인 줄 몰라서 무섭지 않았지요. \"안녕, 빨간 모자야.\" 늑대가 말했어요. \"어디 가니?\" \"할머니 댁에 가요. 커다란 참나무 세 그루 아래에 사세요.\"",
+"\"저 예쁜 꽃들 좀 봐.\" 늑대가 말했어요. \"할머니께 몇 송이 꺾어다 드리면 어때?\" 그래서 빨간 모자는 꽃을 꺾으려고 길에서 벗어났어요. 그동안 늑대는 할머니 댁으로 곧장 달려갔어요.",
+"늑대가 문을 두드렸어요. \"누구세요?\" 할머니가 물었어요. \"빨간 모자예요.\" 늑대가 부드러운 목소리로 말했어요. \"어서 들어오렴!\" 늑대가 들어오자 할머니는 재빨리 큰 옷장에 숨었어요. 늑대는 할머니의 잠옷 모자를 쓰고 침대에 들어갔어요.",
+"곧 빨간 모자가 도착했어요. 뭔가 이상했어요. \"어머, 할머니, 귀가 왜 이렇게 커요!\" \"너를 더 잘 들으려고 그렇지.\" \"어머, 할머니, 눈이 왜 이렇게 커요!\" \"너를 더 잘 보려고 그렇지.\" \"어머, 할머니, 이빨이 왜 이렇게 커요!\" \"너를 더 잘 잡아먹으려고 그렇지!\" 그러고는 늑대가 침대에서 벌떡 뛰어나왔어요.",
+"빨간 모자는 소리를 지르며 달아났어요. 근처에서 일하던 나무꾼이 그 소리를 들었어요. 나무꾼이 도끼를 들고 집으로 뛰어들자, 늑대는 문밖으로 달아나 숲속 멀리멀리 도망쳤어요.",
+"할머니가 옷장에서 무사히 나왔어요. 셋은 함께 앉아 케이크와 주스를 나눠 먹었어요. 그리고 빨간 모자가 말했어요. \"엄마 말씀대로 앞으로는 꼭 길로만 다닐 거예요.\"",
+"끝."]},
+{title:"The Ugly Duckling",ko:"미운 아기 오리",emoji:"🦢",src:"After Hans Christian Andersen, 1843 (short version)",
+text:[
 "It was a lovely summer in the country. Beside a pond, a mother duck sat on her nest, waiting for her eggs to hatch. Crack, crack! One by one, little yellow ducklings popped out. \"Peep, peep!\" they said.",
 "But one egg, the biggest egg of all, had not hatched. At last it cracked open, and out tumbled a duckling who was big and gray and clumsy. \"Oh my,\" said the mother duck. \"He does not look like the others.\"",
 "The other ducks laughed at him. The hens pecked at him, and even his brothers and sisters said, \"You are so ugly!\" The poor duckling felt very sad and lonely. One day, he ran away.",
@@ -43,8 +81,20 @@ window.STORIES=[
 "At last, the warm spring sun came back. The duckling stretched his wings, and they felt strong. He flew to a lovely lake where three beautiful white swans were swimming. \"They may chase me away,\" he thought, \"but I want to be near them.\"",
 "He bent his head down toward the water, and he saw his reflection. He was not a clumsy gray duckling any more. He was a beautiful white swan!",
 "The other swans swam to him and gently touched him with their beaks. Children on the shore cried, \"Look! A new swan! He is the most beautiful of all!\" The young swan felt shy, but his heart was full of joy. He had never dreamed of such happiness when he was the ugly duckling.",
-"The End."]},
-{title:"Cinderella",ko:"신데렐라",emoji:"👠",src:"After Charles Perrault, 1697 (short version)",text:[
+"The End."],
+tr:[
+"시골의 아름다운 여름이었어요. 연못가에서 엄마 오리가 둥지에 앉아 알이 깨기를 기다리고 있었어요. 톡, 톡! 노란 아기 오리들이 하나씩 하나씩 나왔어요. \"삐약, 삐약!\" 하고 울었지요.",
+"그런데 알 하나, 가장 큰 알은 아직 깨지 않았어요. 마침내 알이 깨지고, 크고 회색빛에 어설픈 아기 오리가 굴러 나왔어요. \"어머나.\" 엄마 오리가 말했어요. \"다른 아이들과 생김새가 다르네.\"",
+"다른 오리들은 그 아기 오리를 놀렸어요. 암탉들은 쪼아 댔고, 형제자매들까지 \"넌 정말 못생겼어!\"라고 했어요. 불쌍한 아기 오리는 너무 슬프고 외로웠어요. 어느 날, 아기 오리는 멀리 떠나 버렸어요.",
+"아기 오리는 들판과 늪을 헤매고 다녔어요. 들오리들은 함께 놀아 주지 않았어요. 농부네 고양이는 쉭쉭 화를 냈어요. 어디를 가도 자기가 있을 곳이 아닌 것 같았어요.",
+"어느 가을 저녁, 아기 오리는 아름다운 하얀 새 떼가 하늘 높이 날아가는 것을 보았어요. 길고 우아한 목에 반짝이는 날개를 가진 새들이었어요. 아기 오리는 넋을 잃고 바라보며 자기도 저렇게 되고 싶다고 바랐어요.",
+"겨울이 와서 몹시 추웠어요. 아기 오리는 갈대 사이에 숨어 혼자 덜덜 떨었어요. 길고 힘든 겨울이었지만, 아기 오리는 포기하지 않았어요.",
+"마침내 따뜻한 봄 햇살이 돌아왔어요. 아기 오리가 날개를 쭉 펴 보니 날개가 튼튼해져 있었어요. 아기 오리는 아름다운 하얀 백조 세 마리가 헤엄치는 예쁜 호수로 날아갔어요. '나를 쫓아낼지도 몰라. 그래도 저 백조들 곁에 있고 싶어.' 하고 생각했어요.",
+"아기 오리는 고개를 숙여 물을 내려다보다가, 물에 비친 자기 모습을 보았어요. 이제 어설픈 회색 아기 오리가 아니었어요. 아름다운 하얀 백조였어요!",
+"다른 백조들이 다가와 부리로 살며시 쓰다듬어 주었어요. 물가의 아이들이 외쳤어요. \"봐! 새 백조야! 저 백조가 제일 아름다워!\" 젊은 백조는 수줍었지만 마음은 기쁨으로 가득했어요. 미운 아기 오리였을 때는 이런 행복을 꿈도 꾸지 못했답니다.",
+"끝."]},
+{title:"Cinderella",ko:"신데렐라",emoji:"👠",src:"After Charles Perrault, 1697 (short version)",
+text:[
 "Once upon a time, there was a kind and gentle girl who lived with her stepmother and two stepsisters. They were proud and unkind, and they made her do all the hard work. She cooked, she cleaned, and she sat by the cinders of the fire, so they called her Cinderella.",
 "One day, a letter came from the palace. The King was holding a grand ball, and every young lady in the land was invited. The stepsisters were very excited. Cinderella helped them with their dresses and their hair, but they said, \"You cannot come. You have nothing to wear!\"",
 "When they had gone, Cinderella sat down and cried. Suddenly, a soft light filled the room, and there stood her Fairy Godmother. \"Do not cry, my dear,\" she said. \"You shall go to the ball!\"",
@@ -55,8 +105,21 @@ window.STORIES=[
 "The next day, the Prince said, \"I will marry the lady whose foot fits this slipper.\" His servants traveled from house to house. At last they came to Cinderella's house. The stepsisters pushed and squeezed, but the slipper was much too small for them.",
 "\"May I try?\" asked Cinderella quietly. The stepsisters laughed, but the servant knelt down. The slipper slid onto her foot. It fit perfectly! Then Cinderella took the other glass slipper out of her pocket.",
 "The Prince was overjoyed. Soon Cinderella and the Prince were married. Because she had a kind heart, Cinderella forgave her stepsisters. And they all lived happily ever after.",
-"The End."]},
-{title:"The Tortoise and the Hare",ko:"토끼와 거북이",emoji:"🐢",src:"Aesop's Fables",text:[
+"The End."],
+tr:[
+"옛날 옛적에, 새엄마와 두 언니와 함께 사는 착하고 다정한 소녀가 있었어요. 새엄마와 언니들은 잘난 척하고 심술궂어서, 힘든 일을 모두 소녀에게 시켰어요. 소녀는 요리하고, 청소하고, 아궁이 재 옆에 앉아 있었기 때문에, 사람들은 소녀를 '신데렐라'라고 불렀어요.",
+"어느 날 궁전에서 편지가 왔어요. 임금님이 큰 무도회를 여는데, 나라 안의 모든 아가씨를 초대한다는 내용이었어요. 언니들은 무척 들떴어요. 신데렐라는 언니들의 드레스와 머리 손질을 도와주었지만, 언니들은 \"넌 못 가. 입을 옷도 없잖아!\"라고 했어요.",
+"언니들이 떠나자 신데렐라는 주저앉아 울었어요. 그때 갑자기 부드러운 빛이 방을 가득 채우더니, 요정 대모님이 나타났어요. \"울지 마라, 얘야.\" 요정 대모님이 말했어요. \"너도 무도회에 갈 수 있단다!\"",
+"\"호박을 하나 가져오렴.\" 요정 대모님이 말했어요. 요술 지팡이를 휘두르자 호박이 황금 마차로 변했어요. 작은 생쥐 여섯 마리는 멋진 말 여섯 마리가 되고, 쥐 한 마리는 유쾌한 마부가 되었어요. 그리고 신데렐라의 낡은 옷을 톡 건드리자, 은빛과 금빛 드레스로 바뀌었어요. 발에는 반짝이는 유리 구두 한 켤레가 신겨져 있었어요.",
+"\"즐거운 시간 보내렴.\" 요정 대모님이 말했어요. \"하지만 기억하렴, 꼭 자정 전에 나와야 해. 열두 시가 되면 마법이 풀린단다.\"",
+"무도회에서 모두가 아름다운 낯선 아가씨를 바라보았어요. 왕자님은 저녁 내내 그 아가씨와만 춤을 추고, 다른 누구와도 추지 않았어요. 신데렐라는 너무 행복해서 시간 가는 줄도 몰랐어요.",
+"그때 시계가 울리기 시작했어요. 댕, 댕, 댕! 자정이었어요! 신데렐라는 궁전 밖으로 나와 계단을 뛰어 내려갔어요. 달려가다가 유리 구두 한 짝이 벗겨졌어요. 왕자님이 계단에서 그 구두를 찾았어요.",
+"다음 날 왕자님이 말했어요. \"이 구두가 발에 맞는 아가씨와 결혼하겠다.\" 신하들은 집집마다 찾아다녔어요. 마침내 신데렐라네 집에 왔어요. 언니들은 발을 밀어 넣고 꽉꽉 끼워 보았지만, 구두는 너무 작았어요.",
+"\"저도 신어 봐도 될까요?\" 신데렐라가 조용히 물었어요. 언니들은 비웃었지만, 신하는 무릎을 꿇었어요. 구두가 신데렐라의 발에 쏙 들어갔어요. 꼭 맞았어요! 그러자 신데렐라는 주머니에서 나머지 유리 구두 한 짝을 꺼냈어요.",
+"왕자님은 뛸 듯이 기뻐했어요. 곧 신데렐라와 왕자님은 결혼했어요. 마음씨 고운 신데렐라는 언니들을 용서해 주었어요. 그리고 모두 오래오래 행복하게 살았답니다.",
+"끝."]},
+{title:"The Tortoise and the Hare",ko:"토끼와 거북이",emoji:"🐢",src:"Aesop's Fables",
+text:[
 "Once upon a time, there was a hare who was very proud of how fast he could run. \"Nobody is faster than me!\" he boasted to all the animals of the forest.",
 "A tortoise was walking slowly by. \"I will race you,\" said the tortoise calmly. The hare laughed and laughed. \"You? You are the slowest animal in the forest! All right, let's race.\"",
 "The animals marked a path from the big tree to the top of the hill. The fox said, \"Ready, set, go!\" The hare shot off like the wind, and soon the tortoise was far behind.",
@@ -64,8 +127,18 @@ window.STORIES=[
 "Meanwhile, the tortoise kept walking. Step by step, slow and steady, he never stopped. He walked right past the sleeping hare.",
 "When the hare woke up, the sun was setting. He jumped up and ran as fast as he could. But when he reached the top of the hill, the tortoise was already there, and all the animals were cheering!",
 "The hare learned an important lesson that day: slow and steady wins the race.",
-"The End."]},
-{title:"Hansel and Gretel",ko:"헨젤과 그레텔",emoji:"🍬",src:"Traditional tale (after the Brothers Grimm, 1812)",text:[
+"The End."],
+tr:[
+"옛날 옛적에, 자기가 빨리 달리는 걸 무척 자랑스러워하는 토끼가 있었어요. \"나보다 빠른 동물은 아무도 없어!\" 토끼는 숲속 동물들에게 뽐냈어요.",
+"거북이가 느릿느릿 지나가고 있었어요. \"나랑 경주하자.\" 거북이가 차분하게 말했어요. 토끼는 깔깔 웃고 또 웃었어요. \"너랑? 너는 숲에서 제일 느린 동물이잖아! 좋아, 경주하자.\"",
+"동물들은 큰 나무에서 언덕 꼭대기까지 길을 정했어요. 여우가 외쳤어요. \"준비, 출발!\" 토끼는 바람처럼 쌩 달려 나갔고, 거북이는 곧 저 멀리 뒤처졌어요.",
+"길 중간쯤에서 토끼가 뒤를 돌아보았어요. 거북이는 보이지도 않았어요. \"시간은 넉넉해.\" 토끼가 하품하며 말했어요. \"이 그늘진 나무 아래서 잠깐 낮잠이나 자야지.\" 그러고는 깊이 잠들었어요.",
+"그동안 거북이는 계속 걸었어요. 한 걸음 한 걸음, 느리지만 꾸준하게, 한 번도 멈추지 않았어요. 거북이는 잠든 토끼 바로 옆을 지나갔어요.",
+"토끼가 깨어났을 때는 해가 지고 있었어요. 토끼는 벌떡 일어나 있는 힘껏 달렸어요. 하지만 언덕 꼭대기에 도착해 보니, 거북이가 벌써 와 있었고 동물들이 모두 환호하고 있었어요!",
+"그날 토끼는 중요한 걸 배웠어요. 느려도 꾸준히 하면 이긴다는 것을요.",
+"끝."]},
+{title:"Hansel and Gretel",ko:"헨젤과 그레텔",emoji:"🍬",src:"Traditional tale (after the Brothers Grimm, 1812)",
+text:[
 "Once upon a time, a poor woodcutter lived near a great forest with his wife and two children, Hansel and Gretel. There was little food in the house, and the stepmother said, \"We cannot feed them all. Tomorrow we must take the children deep into the woods and leave them there.\"",
 "Hansel heard her from his bed. That night he slipped outside and filled his pockets with shiny white pebbles. In the morning the stepmother led them into the forest. Hansel quietly dropped the pebbles along the path.",
 "When night came, the moon shone on the white pebbles. Hansel and Gretel followed them all the way home. Their father was overjoyed to see them, but the stepmother was angry.",
@@ -75,5 +148,16 @@ window.STORIES=[
 "At last the witch grew impatient. \"Gretel, heat the oven!\" she cried. \"Climb in and see if it is hot enough.\" Gretel knew the witch meant to push her in. \"I do not know how,\" she said. \"Show me.\" The witch leaned far into the oven. Quick as a flash, Gretel gave her a push, shut the door, and ran to free Hansel.",
 "They filled their pockets with the witch's pearls and jewels and set off through the forest. A wide river blocked their way, but a white duck carried them across, one after the other.",
 "Soon they saw their father's house. He hugged them tightly and cried for joy. The cruel stepmother was gone. With the jewels, the family never went hungry again, and Hansel and Gretel lived happily ever after.",
-"The End."]}
+"The End."],
+tr:[
+"옛날 옛적에, 큰 숲 근처에 가난한 나무꾼이 아내와 두 아이, 헨젤과 그레텔과 함께 살았어요. 집에는 먹을 것이 거의 없었고, 새엄마가 말했어요. \"모두 먹여 살릴 수가 없어요. 내일 아이들을 숲 깊은 곳에 데려가 두고 와야 해요.\"",
+"헨젤은 침대에서 그 말을 들었어요. 그날 밤 헨젤은 몰래 밖으로 나가 반짝이는 하얀 조약돌을 주머니 가득 넣었어요. 아침이 되자 새엄마가 아이들을 숲으로 데려갔어요. 헨젤은 길을 따라 조약돌을 살짝살짝 떨어뜨렸어요.",
+"밤이 되자 달빛이 하얀 조약돌을 비추었어요. 헨젤과 그레텔은 조약돌을 따라 집까지 돌아왔어요. 아빠는 아이들을 보고 무척 기뻐했지만, 새엄마는 화가 났어요.",
+"얼마 뒤 먹을 것이 더 줄었어요. 새엄마는 또 아이들을 숲으로 데려갔어요. 이번에 헨젤에게는 빵 껍질 한 조각밖에 없었어요. 헨젤은 빵을 부스러기로 부숴 길에 떨어뜨렸어요. 하지만 새들이 부스러기를 모두 먹어 버려서, 아이들은 집으로 가는 길을 찾을 수 없었어요.",
+"아이들은 걷고 또 걷다가 빵과 케이크와 설탕으로 만든 작은 집을 발견했어요. 배고프고 지친 아이들은 집을 조금씩 뜯어 먹기 시작했어요. 그때 할머니가 나왔어요. \"들어오렴, 얘들아.\" 할머니가 상냥하게 말했어요. \"나랑 있으면 안전하단다.\"",
+"하지만 그 할머니는 나쁜 마녀였어요. 마녀는 헨젤을 우리에 가두고 그레텔에게 헨젤이 먹을 음식을 만들게 했어요. \"통통하게 살이 찌면 잡아먹어야지.\" 마녀가 속삭였어요. 마녀는 날마다 헨젤에게 손가락을 내밀어 보라고 해서 얼마나 살쪘는지 만져 보았어요. 똑똑한 헨젤은 손가락 대신 가느다란 닭 뼈를 내밀었어요.",
+"마침내 마녀는 참을 수가 없었어요. \"그레텔, 화덕에 불을 지펴라!\" 마녀가 소리쳤어요. \"안에 들어가서 충분히 뜨거운지 봐라.\" 그레텔은 마녀가 자기를 밀어 넣으려는 걸 알았어요. \"어떻게 하는지 몰라요. 보여 주세요.\" 그레텔이 말했어요. 마녀가 화덕 속으로 몸을 깊이 숙였어요. 그 순간 그레텔이 번개처럼 마녀를 밀고 문을 닫은 뒤, 헨젤을 구하러 달려갔어요.",
+"아이들은 마녀의 진주와 보석을 주머니에 가득 담고 숲을 지나 길을 떠났어요. 넓은 강이 길을 막았지만, 하얀 오리가 한 명씩 차례로 강을 건네주었어요.",
+"곧 아빠의 집이 보였어요. 아빠는 아이들을 꼭 껴안고 기뻐서 울었어요. 못된 새엄마는 떠나고 없었어요. 보석 덕분에 가족은 다시는 굶지 않았고, 헨젤과 그레텔은 오래오래 행복하게 살았답니다.",
+"끝."]}
 ];

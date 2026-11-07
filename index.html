@@ -31,6 +31,11 @@ box-shadow:0 6px 0 rgba(0,0,0,.08);cursor:pointer;min-height:150px;font-family:i
 .book p{font-family:Georgia,"Times New Roman",serif;font-size:1.2rem;line-height:1.7;padding:8px 10px;border-radius:14px;
 margin:6px -10px;transition:background .3s;cursor:pointer}
 .book p.on{background:var(--hl);box-shadow:0 0 0 3px #ffe066}
+.book p .tr{display:block;font-family:-apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;font-size:1rem;line-height:1.6;color:#7a6a84;margin-top:4px;padding-left:10px;border-left:3px solid var(--lav);word-break:keep-all}
+.book p.on .tr{color:var(--ink);border-left-color:#ffb703}
+body.notr .book p .tr{display:none}
+.top{display:flex;justify-content:space-between;align-items:center;gap:8px}
+.trbtn{border:none;background:var(--lav);border-radius:999px;padding:12px 16px;font-size:1rem;margin-bottom:12px;font-family:inherit;color:var(--ink);box-shadow:0 3px 0 rgba(0,0,0,.08);min-height:44px}
 .pd{font-size:.85rem;opacity:.6;text-align:center;margin-top:18px}
 .back{border:none;background:#fff;border-radius:999px;padding:12px 18px;font-size:1rem;margin-bottom:12px;font-family:inherit;color:var(--ink);box-shadow:0 3px 0 rgba(0,0,0,.08)}
 .bar{position:fixed;left:0;right:0;bottom:0;background:rgba(255,255,255,.95);backdrop-filter:blur(8px);
@@ -49,9 +54,9 @@ select{max-width:720px;width:100%;display:block;margin:8px auto 0;padding:8px;bo
 <header><h1>📚 영어 동화책 읽어주기</h1><p>동화를 고르고 ▶︎ 읽기 버튼을 눌러 주세요</p></header>
 <main>
   <section id="list"><div class="grid" id="grid"></div>
-  <div class="note">💡 아이폰은 <b>무음 모드</b>를 끄고 볼륨을 올려 주세요. 문단을 누르면 그 문단부터 읽어요.</div></section>
+  <div class="note">💡 아이폰은 <b>무음 모드</b>를 끄고 볼륨을 올려 주세요. 문단을 누르면 그 문단부터 읽어요. 한국어 번역은 화면에만 보이고 소리로는 영어만 읽어요.</div></section>
   <section id="reader" class="hide">
-    <button class="back" id="back">← 동화 목록</button>
+    <div class="top"><button class="back" id="back">← 동화 목록</button><button class="trbtn" id="trbtn" aria-pressed="true">🇰🇷 번역 숨기기</button></div>
     <article class="book" id="book"></article>
   </section>
 </main>
@@ -67,10 +72,13 @@ const $=id=>document.getElementById(id);let cur=null,idx=0,playing=false,paused=
 S.forEach((s,i)=>{const b=document.createElement('button');b.className='card';b.style.background=`var(${colors[i%5]})`;
 b.innerHTML=`<span class="emo">${s.emoji}</span><b>${s.title}</b><small>${s.ko}</small>`;b.onclick=()=>open(i);$('grid').appendChild(b)});
 function open(i){stop();cur=S[i];idx=0;const bk=$('book');
-bk.innerHTML=`<h2>${cur.emoji} ${cur.title}</h2><div class="ko">${cur.ko}</div>`+cur.text.map((p,j)=>`<p data-i="${j}">${p}</p>`).join('')+
+bk.innerHTML=`<h2>${cur.emoji} ${cur.title}</h2><div class="ko">${cur.ko}</div>`+cur.text.map((p,j)=>`<p data-i="${j}"><span class="en">${p}</span>${cur.tr&&cur.tr[j]?`<span class="tr" lang="ko">${cur.tr[j]}</span>`:''}</p>`).join('')+
 `<div class="pd">Public domain / 공개영역 · ${cur.src}</div>`;
 bk.querySelectorAll('p').forEach(p=>p.onclick=()=>{stop();idx=+p.dataset.i;play()});
 $('list').classList.add('hide');$('reader').classList.remove('hide');$('bar').classList.remove('hide');scrollTo(0,0)}
+let showTr=true;try{showTr=localStorage.getItem('showTr')!=='0'}catch(e){}
+function applyTr(){document.body.classList.toggle('notr',!showTr);$('trbtn').textContent=showTr?'🇰🇷 번역 숨기기':'🇰🇷 번역 보기';$('trbtn').setAttribute('aria-pressed',showTr)}
+$('trbtn').onclick=()=>{showTr=!showTr;try{localStorage.setItem('showTr',showTr?'1':'0')}catch(e){}applyTr()};applyTr();
 $('back').onclick=()=>{stop();$('reader').classList.add('hide');$('bar').classList.add('hide');$('list').classList.remove('hide')};
 function loadVoices(){voices=speechSynthesis.getVoices().filter(v=>/^en/i.test(v.lang));
 voices.sort((a,b)=>score(b)-score(a));const sel=$('voice'),keep=sel.value;
