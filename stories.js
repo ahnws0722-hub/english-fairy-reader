@@ -159,5 +159,28 @@ tr:[
 "마침내 마녀는 참을 수가 없었어요. \"그레텔, 화덕에 불을 지펴라!\" 마녀가 소리쳤어요. \"안에 들어가서 충분히 뜨거운지 봐라.\" 그레텔은 마녀가 자기를 밀어 넣으려는 걸 알았어요. \"어떻게 하는지 몰라요. 보여 주세요.\" 그레텔이 말했어요. 마녀가 화덕 속으로 몸을 깊이 숙였어요. 그 순간 그레텔이 번개처럼 마녀를 밀고 문을 닫은 뒤, 헨젤을 구하러 달려갔어요.",
 "아이들은 마녀의 진주와 보석을 주머니에 가득 담고 숲을 지나 길을 떠났어요. 넓은 강이 길을 막았지만, 하얀 오리가 한 명씩 차례로 강을 건네주었어요.",
 "곧 아빠의 집이 보였어요. 아빠는 아이들을 꼭 껴안고 기뻐서 울었어요. 못된 새엄마는 떠나고 없었어요. 보석 덕분에 가족은 다시는 굶지 않았고, 헨젤과 그레텔은 오래오래 행복하게 살았답니다.",
+"끝."]},
+{title:"Jack and the Beanstalk",ko:"잭과 콩나무",emoji:"🌱",src:"English tale (after Joseph Jacobs, 1890)",
+text:[
+"Once upon a time, a boy named Jack lived with his mother. They were very poor. One day, his mother said, \"Jack, we have nothing left but our cow. Take her to the market and sell her.\"",
+"On the road, Jack met a funny old man. \"I will give you five magic beans for your cow,\" said the man. Jack liked the shiny beans and said yes.",
+"When Jack got home, his mother was very sad. \"Beans? Oh, Jack!\" She threw the beans out of the window, and they both went to bed hungry.",
+"The next morning, Jack looked outside. A giant beanstalk had grown up, up, up into the clouds! Jack began to climb. He climbed and climbed until he reached the sky.",
+"At the top, he saw a huge castle. A giant lady opened the door. \"Hide!\" she said kindly. \"My husband the giant eats boys.\" Soon the giant came in and shouted, \"Fee-fi-fo-fum! I smell a boy!\" But he did not find Jack.",
+"After dinner, the giant counted his gold coins and then fell asleep. Jack quietly took a bag of gold and ran down the beanstalk to his mother. They were happy and had plenty to eat.",
+"Later, Jack climbed up again. This time he took a hen that laid golden eggs. A third time, he saw a golden harp that could sing. When Jack took it, the harp cried, \"Master! Master!\" The giant woke up and chased Jack.",
+"Jack ran down the beanstalk as fast as he could. \"Mother, bring the axe!\" he shouted. He chopped down the beanstalk, and the giant fell down and never came back.",
+"Jack and his mother were never poor again. The hen gave them golden eggs, the harp sang for them, and they lived happily for a long, long time.",
+"The End."],
+tr:[
+"옛날 옛적에 잭이라는 소년이 엄마와 함께 살았어요. 두 사람은 아주 가난했어요. 어느 날 엄마가 말했어요. \"잭, 우리에겐 소 한 마리밖에 남지 않았구나. 시장에 가서 팔고 오렴.\"",
+"길에서 잭은 재미있게 생긴 할아버지를 만났어요. \"소를 주면 마법 콩 다섯 알을 주마.\" 할아버지가 말했어요. 잭은 반짝이는 콩이 마음에 들어서 좋다고 했어요.",
+"집에 돌아오자 엄마는 몹시 슬퍼했어요. \"콩이라고? 아이고, 잭!\" 엄마는 콩을 창밖으로 던졌고, 두 사람은 배고픈 채로 잠자리에 들었어요.",
+"다음 날 아침 잭이 밖을 내다보니, 커다란 콩나무가 구름 속까지 쑥쑥 자라 있었어요! 잭은 오르기 시작했어요. 오르고 또 올라서 마침내 하늘에 닿았어요.",
+"꼭대기에는 커다란 성이 있었어요. 거인 아주머니가 문을 열었어요. \"숨어라!\" 아주머니가 다정하게 말했어요. \"우리 남편 거인은 사내아이를 잡아먹는단다.\" 곧 거인이 들어와서 소리쳤어요. \"피, 파이, 포, 펌! 사내아이 냄새가 나는데!\" 하지만 거인은 잭을 찾지 못했어요.",
+"저녁을 먹은 뒤 거인은 금화를 세다가 잠이 들었어요. 잭은 살금살금 금화 자루를 들고 콩나무를 타고 내려가 엄마에게 갔어요. 두 사람은 기뻐했고 먹을 것도 넉넉해졌어요.",
+"얼마 뒤 잭은 다시 올라갔어요. 이번에는 황금 알을 낳는 암탉을 가져왔어요. 세 번째에는 노래하는 황금 하프를 보았어요. 잭이 하프를 집자 하프가 \"주인님! 주인님!\" 하고 외쳤어요. 거인이 깨어나서 잭을 쫓아왔어요.",
+"잭은 있는 힘껏 콩나무를 타고 내려갔어요. \"엄마, 도끼 가져오세요!\" 잭이 소리쳤어요. 잭이 콩나무를 베어 버리자 거인은 아래로 떨어졌고 다시는 돌아오지 못했어요.",
+"잭과 엄마는 다시는 가난해지지 않았어요. 암탉은 황금 알을 낳아 주었고 하프는 노래를 불러 주었어요. 두 사람은 오래오래 행복하게 살았답니다.",
 "끝."]}
 ];
