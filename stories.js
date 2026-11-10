@@ -182,5 +182,24 @@ tr:[
 "얼마 뒤 잭은 다시 올라갔어요. 이번에는 황금 알을 낳는 암탉을 가져왔어요. 세 번째에는 노래하는 황금 하프를 보았어요. 잭이 하프를 집자 하프가 \"주인님! 주인님!\" 하고 외쳤어요. 거인이 깨어나서 잭을 쫓아왔어요.",
 "잭은 있는 힘껏 콩나무를 타고 내려갔어요. \"엄마, 도끼 가져오세요!\" 잭이 소리쳤어요. 잭이 콩나무를 베어 버리자 거인은 아래로 떨어졌고 다시는 돌아오지 못했어요.",
 "잭과 엄마는 다시는 가난해지지 않았어요. 암탉은 황금 알을 낳아 주었고 하프는 노래를 불러 주었어요. 두 사람은 오래오래 행복하게 살았답니다.",
+"끝."]},
+{title:"The Gingerbread Man",ko:"생강쿠키 사람",emoji:"🍪",src:"Traditional tale (St. Nicholas Magazine, 1875)",
+text:[
+"Once upon a time, an old woman and an old man lived in a little house. They had no children. One day, the old woman made a gingerbread man. She gave him two raisin eyes and a big smile, and she put him in the oven.",
+"Soon the oven door popped open. Out jumped the gingerbread man, and he ran away! \"Run, run, as fast as you can!\" he sang. \"You can't catch me. I'm the gingerbread man!\"",
+"The old woman and the old man ran after him, but they could not catch him. The gingerbread man ran past a cow. \"Stop, little man! I want to eat you!\" said the cow. But he only laughed. \"I ran away from an old woman and an old man, and I can run away from you!\"",
+"He ran past a horse in a field. \"Stop, little man!\" said the horse. But the gingerbread man sang again, \"Run, run, as fast as you can! You can't catch me. I'm the gingerbread man!\" And he ran on and on.",
+"Then he came to a wide river. \"How can I cross?\" he asked. A sly fox was standing nearby. \"Jump on my tail,\" said the fox. \"I will take you across.\" The gingerbread man jumped on his tail.",
+"The water got deeper. \"Jump on my back, or you will get wet,\" said the fox. So the gingerbread man jumped on his back. The water got deeper still. \"Jump on my nose,\" said the fox. \"Then you will be safe.\"",
+"The gingerbread man jumped on the fox's nose. Snap! The fox tossed his head, and that was the end of the gingerbread man. He should not have trusted the sly fox.",
+"The End."],
+tr:[
+"옛날 옛적에 할머니와 할아버지가 작은 집에 살았어요. 두 분에게는 아이가 없었어요. 어느 날 할머니는 생강쿠키 사람을 만들었어요. 건포도로 눈 두 개를 달고 활짝 웃는 입도 만들어서 오븐에 넣었어요.",
+"곧 오븐 문이 퐁 열렸어요. 생강쿠키 사람이 뛰어나와 달아났어요! \"달려, 달려, 힘껏 달려! 나를 잡을 수 없을걸. 나는 생강쿠키 사람이야!\" 하고 노래했어요.",
+"할머니와 할아버지는 뒤쫓았지만 잡을 수 없었어요. 생강쿠키 사람은 소 옆을 지나갔어요. \"멈춰, 꼬마야! 너를 먹고 싶어!\" 소가 말했어요. 하지만 쿠키 사람은 웃기만 했어요. \"할머니와 할아버지에게서도 도망쳤는데 너한테서도 도망칠 수 있어!\"",
+"들판에서 말 옆을 지나갔어요. \"멈춰, 꼬마야!\" 말이 말했어요. 하지만 생강쿠키 사람은 또 노래했어요. \"달려, 달려, 힘껏 달려! 나를 잡을 수 없을걸. 나는 생강쿠키 사람이야!\" 그리고 계속 달렸어요.",
+"그러다 넓은 강에 이르렀어요. \"어떻게 건너지?\" 쿠키 사람이 물었어요. 근처에 꾀 많은 여우가 서 있었어요. \"내 꼬리에 올라타. 내가 건네줄게.\" 여우가 말했어요. 생강쿠키 사람은 꼬리 위로 뛰어올랐어요.",
+"물이 점점 깊어졌어요. \"젖지 않게 내 등에 올라타.\" 여우가 말했어요. 쿠키 사람은 등으로 뛰어올랐어요. 물은 더 깊어졌어요. \"내 코 위로 올라와. 그러면 안전해.\" 여우가 말했어요.",
+"생강쿠키 사람이 여우 코 위로 뛰어올랐어요. 낼름! 여우가 고개를 휙 젖혔고 생강쿠키 사람은 그만 끝이 나고 말았어요. 꾀 많은 여우를 믿지 말았어야 했어요.",
 "끝."]}
 ];
