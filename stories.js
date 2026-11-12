@@ -201,5 +201,28 @@ tr:[
 "그러다 넓은 강에 이르렀어요. \"어떻게 건너지?\" 쿠키 사람이 물었어요. 근처에 꾀 많은 여우가 서 있었어요. \"내 꼬리에 올라타. 내가 건네줄게.\" 여우가 말했어요. 생강쿠키 사람은 꼬리 위로 뛰어올랐어요.",
 "물이 점점 깊어졌어요. \"젖지 않게 내 등에 올라타.\" 여우가 말했어요. 쿠키 사람은 등으로 뛰어올랐어요. 물은 더 깊어졌어요. \"내 코 위로 올라와. 그러면 안전해.\" 여우가 말했어요.",
 "생강쿠키 사람이 여우 코 위로 뛰어올랐어요. 낼름! 여우가 고개를 휙 젖혔고 생강쿠키 사람은 그만 끝이 나고 말았어요. 꾀 많은 여우를 믿지 말았어야 했어요.",
+"끝."]},
+{title:"The Lion and the Mouse",ko:"사자와 생쥐",emoji:"🦁",src:"Aesop's Fables",
+text:[
+"One hot day, a big lion was sleeping under a tree in the forest. A little mouse ran past him, up his back, and over his nose.",
+"The lion woke up with a loud roar. He caught the tiny mouse in his big paw. \"How dare you wake me up!\" he said. \"I will eat you!\"",
+"\"Please, Mr. Lion, let me go,\" cried the mouse. \"If you are kind to me, I will be kind to you one day. I will help you when you need it.\"",
+"The lion laughed. \"You? Help me? You are so small!\" But he felt kind that day, so he lifted his paw and let the mouse go.",
+"A few days later, the lion was walking in the forest when he got caught in a hunter's strong net. He pulled and pulled, but he could not get free. He roared and roared.",
+"The little mouse heard the roar and came running. \"Don't worry, Mr. Lion,\" she said. \"I will help you.\"",
+"She chewed and chewed the ropes with her sharp little teeth. Snip, snap, snip! Soon the net fell open, and the lion was free.",
+"\"Thank you, little friend,\" said the lion. \"I was wrong. Even a small friend can do a big thing.\"",
+"From that day on, the lion and the mouse were the best of friends. Little friends can be great friends.",
+"The End."],
+tr:[
+"어느 더운 날, 커다란 사자가 숲속 나무 아래에서 자고 있었어요. 작은 생쥐가 그 옆을 지나가다가 사자 등을 타고 올라가 코 위를 넘어갔어요.",
+"사자는 크게 으르렁거리며 잠에서 깼어요. 그리고 커다란 발로 작은 생쥐를 잡았어요. \"감히 내 잠을 깨우다니! 너를 잡아먹겠다!\" 하고 말했어요.",
+"\"제발 사자님, 보내 주세요.\" 생쥐가 외쳤어요. \"저를 친절하게 대해 주시면 저도 언젠가 사자님께 친절하게 할게요. 필요할 때 도와 드릴게요.\"",
+"사자는 웃었어요. \"네가? 나를 도와? 넌 너무 작잖아!\" 하지만 그날은 마음이 너그러워서 발을 들어 생쥐를 놓아 주었어요.",
+"며칠 뒤, 사자는 숲을 걷다가 사냥꾼의 튼튼한 그물에 걸리고 말았어요. 당기고 또 당겼지만 빠져나올 수 없었어요. 사자는 계속 으르렁거렸어요.",
+"작은 생쥐가 그 소리를 듣고 달려왔어요. \"걱정 마세요, 사자님. 제가 도와 드릴게요.\" 하고 말했어요.",
+"생쥐는 날카로운 작은 이빨로 밧줄을 갉고 또 갉았어요. 사각, 사각, 사각! 곧 그물이 열렸고 사자는 자유로워졌어요.",
+"\"고마워, 작은 친구야.\" 사자가 말했어요. \"내가 틀렸어. 작은 친구도 큰일을 할 수 있구나.\"",
+"그날부터 사자와 생쥐는 가장 친한 친구가 되었어요. 작은 친구도 훌륭한 친구가 될 수 있어요.",
 "끝."]}
 ];
