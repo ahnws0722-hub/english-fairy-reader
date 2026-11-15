@@ -224,5 +224,28 @@ tr:[
 "생쥐는 날카로운 작은 이빨로 밧줄을 갉고 또 갉았어요. 사각, 사각, 사각! 곧 그물이 열렸고 사자는 자유로워졌어요.",
 "\"고마워, 작은 친구야.\" 사자가 말했어요. \"내가 틀렸어. 작은 친구도 큰일을 할 수 있구나.\"",
 "그날부터 사자와 생쥐는 가장 친한 친구가 되었어요. 작은 친구도 훌륭한 친구가 될 수 있어요.",
+"끝."]},
+{title:"The Boy Who Cried Wolf",ko:"양치기 소년",emoji:"🐺",src:"Aesop's Fables",
+text:[
+"Long ago, a young shepherd boy looked after a flock of sheep on a green hill near his village. Every day he sat in the sun and watched the sheep eat grass.",
+"One day, the boy felt bored. \"I will have some fun,\" he thought. He ran down the hill and shouted, \"Wolf! Wolf! A wolf is eating the sheep!\"",
+"The villagers heard him. They dropped their work and ran up the hill as fast as they could. But there was no wolf. The boy laughed and laughed.",
+"\"Do not play tricks like that,\" said the villagers. They were very angry, and they went back down the hill.",
+"A few days later, the boy felt bored again. \"Wolf! Wolf!\" he shouted. \"The wolf is here!\" Once more the villagers ran up the hill. Once more there was no wolf. The boy laughed again.",
+"Then, one evening, a real wolf came out of the forest. The sheep ran in every direction. The boy was very afraid.",
+"\"Wolf! Wolf!\" he cried. \"Please help me! A real wolf is here!\" But the villagers only shook their heads. \"He is playing tricks again,\" they said. Nobody came.",
+"The wolf scared the sheep away, and the boy sat on the hill and cried. That night he told an old man what had happened.",
+"The old man said softly, \"People do not believe a liar, even when he tells the truth.\" From that day on, the boy always told the truth.",
+"The End."],
+tr:[
+"옛날 옛적, 어린 양치기 소년이 마을 근처 푸른 언덕에서 양 떼를 돌보았어요. 소년은 날마다 햇볕 아래 앉아 양들이 풀 먹는 걸 지켜보았어요.",
+"어느 날 소년은 너무 심심했어요. \"재미있는 일을 해 봐야지.\" 하고 생각했어요. 소년은 언덕을 달려 내려가 \"늑대다! 늑대가 양을 잡아먹어요!\" 하고 소리쳤어요.",
+"마을 사람들이 그 소리를 들었어요. 하던 일을 놓고 최대한 빨리 언덕으로 달려갔어요. 하지만 늑대는 없었어요. 소년은 깔깔 웃었어요.",
+"\"그런 장난은 치지 마라.\" 마을 사람들이 말했어요. 사람들은 무척 화가 나서 언덕을 내려갔어요.",
+"며칠 뒤, 소년은 또 심심했어요. \"늑대다! 늑대가 나타났어요!\" 하고 소리쳤어요. 마을 사람들은 또 언덕으로 달려갔지만 이번에도 늑대는 없었어요. 소년은 또 웃었어요.",
+"그런데 어느 저녁, 진짜 늑대가 숲에서 나왔어요. 양들이 사방으로 뛰어 도망쳤어요. 소년은 너무너무 무서웠어요.",
+"\"늑대다! 늑대! 제발 도와주세요! 진짜 늑대가 왔어요!\" 하고 외쳤어요. 하지만 마을 사람들은 고개를 저을 뿐이었어요. \"또 장난이겠지.\" 하고 말했어요. 아무도 오지 않았어요.",
+"늑대는 양들을 쫓아 버렸고, 소년은 언덕에 앉아 울었어요. 그날 밤 소년은 한 할아버지에게 있었던 일을 이야기했어요.",
+"할아버지가 부드럽게 말했어요. \"거짓말쟁이는 참말을 해도 사람들이 믿지 않는단다.\" 그날부터 소년은 언제나 참말만 했어요.",
 "끝."]}
 ];
