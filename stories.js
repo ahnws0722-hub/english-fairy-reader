@@ -247,5 +247,26 @@ tr:[
 "\"늑대다! 늑대! 제발 도와주세요! 진짜 늑대가 왔어요!\" 하고 외쳤어요. 하지만 마을 사람들은 고개를 저을 뿐이었어요. \"또 장난이겠지.\" 하고 말했어요. 아무도 오지 않았어요.",
 "늑대는 양들을 쫓아 버렸고, 소년은 언덕에 앉아 울었어요. 그날 밤 소년은 한 할아버지에게 있었던 일을 이야기했어요.",
 "할아버지가 부드럽게 말했어요. \"거짓말쟁이는 참말을 해도 사람들이 믿지 않는단다.\" 그날부터 소년은 언제나 참말만 했어요.",
+"끝."]},
+{title:"The Town Mouse and the Country Mouse",ko:"시골 쥐와 서울 쥐",emoji:"🐭",src:"Aesop's Fables",
+text:[
+"Once upon a time, a country mouse lived in a quiet field. His home was small, but he was happy. He ate corn and barley and nuts every day.",
+"One day, his cousin the town mouse came to visit. The country mouse gave him the best food he had. The town mouse looked at the plain meal and said, \"Your life is so simple. Come to the city with me!\"",
+"The country mouse said yes. They walked all night and came to a big house in the town. In the dining room there was a grand table with cheese, cake, and sweet fruit.",
+"\"Eat, eat!\" said the town mouse. The country mouse had never seen such food. He took a big bite of cheese and smiled.",
+"But then the door opened with a bang. A big cat jumped into the room! The two mice ran and hid in a tiny hole. The country mouse shook with fear.",
+"When the cat went away, the town mouse said, \"Come, let us eat again.\" But the country mouse shook his head.",
+"\"Thank you, cousin,\" he said. \"Your food is fine, but I am too scared to enjoy it. I would rather eat plain corn in peace than eat cake in fear.\"",
+"So the country mouse went home to his quiet field. He ate his corn and barley, and he was happy and safe again.",
+"The End."],
+tr:[
+"옛날 옛적에 시골 쥐 한 마리가 조용한 들판에 살았어요. 집은 작았지만 쥐는 행복했어요. 날마다 옥수수와 보리와 나무 열매를 먹었어요.",
+"어느 날, 사촌인 서울 쥐가 놀러 왔어요. 시골 쥐는 가장 좋은 음식을 내놓았어요. 서울 쥐는 소박한 밥상을 보고 말했어요. \"넌 너무 단순하게 사는구나. 나랑 도시로 가자!\"",
+"시골 쥐는 좋다고 했어요. 둘은 밤새 걸어서 도시의 커다란 집에 도착했어요. 식당에는 치즈와 케이크와 달콤한 과일이 놓인 멋진 식탁이 있었어요.",
+"\"먹어, 어서 먹어!\" 서울 쥐가 말했어요. 시골 쥐는 그렇게 맛있는 음식을 본 적이 없었어요. 치즈를 크게 한 입 먹고 웃었어요.",
+"그런데 갑자기 문이 쾅 열렸어요. 커다란 고양이가 방으로 뛰어들었어요! 두 쥐는 달려가 작은 구멍에 숨었어요. 시골 쥐는 무서워서 덜덜 떨었어요.",
+"고양이가 가 버리자 서울 쥐가 말했어요. \"자, 다시 먹자.\" 하지만 시골 쥐는 고개를 저었어요.",
+"\"고마워, 사촌아.\" 시골 쥐가 말했어요. \"음식은 훌륭하지만 너무 무서워서 즐길 수가 없어. 무서워하며 케이크를 먹느니 편안하게 평범한 옥수수를 먹을래.\"",
+"그래서 시골 쥐는 조용한 들판으로 돌아갔어요. 옥수수와 보리를 먹으며 다시 행복하고 안전하게 지냈어요.",
 "끝."]}
 ];
