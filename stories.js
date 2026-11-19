@@ -268,5 +268,26 @@ tr:[
 "고양이가 가 버리자 서울 쥐가 말했어요. \"자, 다시 먹자.\" 하지만 시골 쥐는 고개를 저었어요.",
 "\"고마워, 사촌아.\" 시골 쥐가 말했어요. \"음식은 훌륭하지만 너무 무서워서 즐길 수가 없어. 무서워하며 케이크를 먹느니 편안하게 평범한 옥수수를 먹을래.\"",
 "그래서 시골 쥐는 조용한 들판으로 돌아갔어요. 옥수수와 보리를 먹으며 다시 행복하고 안전하게 지냈어요.",
+"끝."]},
+{title:"The Little Red Hen",ko:"작은 빨간 암탉",emoji:"🐔",src:"Traditional English folk tale (St. Nicholas Magazine, 1874; public domain)",
+text:[
+"Once upon a time, a little red hen lived on a farm. She had three friends: a duck, a cat, and a dog. The friends liked to sleep and play all day.",
+"One morning, the hen found some grains of wheat. \"Who will help me plant this wheat?\" she asked. \"Not I,\" said the duck. \"Not I,\" said the cat. \"Not I,\" said the dog. \"Then I will do it myself,\" said the little red hen. And she did.",
+"The wheat grew tall and golden in the sun. \"Who will help me cut the wheat?\" asked the hen. \"Not I,\" said the duck. \"Not I,\" said the cat. \"Not I,\" said the dog. \"Then I will do it myself,\" said the little red hen. And she did.",
+"Next, she carried the wheat to the mill. \"Who will help me take the wheat to the mill?\" she asked. Again the three friends said, \"Not I.\" So the hen carried it by herself and brought home soft, white flour.",
+"\"Who will help me bake the bread?\" asked the hen. \"Not I,\" said the duck. \"Not I,\" said the cat. \"Not I,\" said the dog. \"Then I will do it myself,\" said the little red hen. And she did.",
+"Soon the kitchen smelled wonderful. The hen took a warm, fresh loaf of bread out of the oven. \"Who will help me eat the bread?\" she asked.",
+"\"I will!\" said the duck. \"I will!\" said the cat. \"I will!\" said the dog. But the little red hen shook her head. \"No, you will not. I planted the wheat, I cut it, I took it to the mill, and I baked the bread. Now I will eat it with my chicks.\"",
+"The duck, the cat, and the dog felt sorry. From that day on, they learned to help. And the little red hen was very happy.",
+"The End."],
+tr:[
+"옛날 옛적에 농장에 작고 빨간 암탉이 살았어요. 친구가 셋 있었는데 오리, 고양이, 개였어요. 친구들은 하루 종일 자고 노는 걸 좋아했어요.",
+"어느 날 아침, 암탉은 밀알 몇 알을 찾았어요. \"누가 이 밀을 심는 걸 도와줄래?\" 암탉이 물었어요. \"난 아니야.\" 오리가 말했어요. \"난 아니야.\" 고양이가 말했어요. \"난 아니야.\" 개가 말했어요. \"그럼 내가 직접 할게.\" 작은 빨간 암탉이 말했어요. 그리고 정말 그렇게 했어요.",
+"밀은 햇볕을 받으며 키가 크고 노랗게 자랐어요. \"누가 밀을 베는 걸 도와줄래?\" 암탉이 물었어요. \"난 아니야.\" 오리가 말했어요. \"난 아니야.\" 고양이가 말했어요. \"난 아니야.\" 개가 말했어요. \"그럼 내가 직접 할게.\" 작은 빨간 암탉이 말했어요. 그리고 정말 그렇게 했어요.",
+"다음으로 암탉은 밀을 방앗간에 가져갔어요. \"누가 밀을 방앗간에 가져가는 걸 도와줄래?\" 암탉이 물었어요. 세 친구는 또 \"난 아니야.\" 하고 말했어요. 그래서 암탉은 혼자 밀을 나르고, 부드럽고 하얀 밀가루를 집에 가져왔어요.",
+"\"누가 빵 굽는 걸 도와줄래?\" 암탉이 물었어요. \"난 아니야.\" 오리가 말했어요. \"난 아니야.\" 고양이가 말했어요. \"난 아니야.\" 개가 말했어요. \"그럼 내가 직접 할게.\" 작은 빨간 암탉이 말했어요. 그리고 정말 그렇게 했어요.",
+"곧 부엌에 좋은 냄새가 가득했어요. 암탉은 따뜻하고 갓 구운 빵 한 덩이를 오븐에서 꺼냈어요. \"누가 이 빵 먹는 걸 도와줄래?\" 암탉이 물었어요.",
+"\"내가 할게!\" 오리가 말했어요. \"내가 할게!\" 고양이가 말했어요. \"내가 할게!\" 개가 말했어요. 하지만 작은 빨간 암탉은 고개를 저었어요. \"아니, 안 돼. 내가 밀을 심고, 베고, 방앗간에 가져가고, 빵을 구웠잖아. 이제 내 병아리들과 함께 먹을 거야.\"",
+"오리와 고양이와 개는 미안한 마음이 들었어요. 그날부터 친구들은 돕는 법을 배웠어요. 그리고 작은 빨간 암탉은 아주 행복했어요.",
 "끝."]}
 ];
